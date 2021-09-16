@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am a Software Developer at Hack4Impact!
 
 ## My Profile
 
@@ -9,13 +9,13 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
     <td align="center">
       <a href="tacobell.com">
         <img
-          src="https://data.whicdn.com/images/317675372/original.jpg"
+          src="https://avatars.githubusercontent.com/u/23776635?s=400&u=46c5977b3c17e71a2e09cf0ee16e4e392a316c8b&v=4"
           width="500px"
         />
         <br />
-        <b><i>INSERT NAME</i></b>
+        <b><i>Praneeth</i></b>
         <br />
-        <sub><b><i>INSERT ROLE</i></b></sub>
+        <sub><b><i>Guduguntla</i></b></sub>
       </a>
     </td>
     </tr>
@@ -23,7 +23,7 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
 
 ## Usage
 
-The latest version of this application can be found at my branch named **_INSERT NAME_**.
+The latest version of this application can be found at my branch named praneeth-guduguntla-bootcamp.
 
 To setup and run locally:
 
